@@ -9,6 +9,7 @@ public class ComparingPriceTest extends BaseTest
 	@Test
 	public void ComparePrice()
 	{
+	
 		amazon.searchproduct("IPHONE XR 64GB YELLOW");
 	}
 
